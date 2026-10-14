@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**weihaogan/weihaogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Weihao Gan
 
-Here are some ideas to get you started:
+Ph.D. Student in Control Science and Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am a Ph.D. student at Zhejiang University. My research interests focus on retrieval-augmented generation, knowledge representation, and intelligent reasoning.
+
+### Research Interests
+
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs and Knowledge Representation
+- Large Language Models (LLMs)
+- Intelligent Reasoning
+
+### Affiliation
+
+College of Control Science and Engineering, Zhejiang University
+
+### Contact
+
+Email: 12632100@zju.edu.cn
+  
